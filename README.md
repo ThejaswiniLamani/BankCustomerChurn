@@ -18,5 +18,10 @@ Age group 51-60 had the most churn (56.2%).
 Product insights revealed that Savings Accounts and Debit Cards were the most used products, but churn behavior varied by gender.
 The analysis provided actionable insights for improving customer retention strategies, especially for newer and older age segments.
 
-![Screenshot 2024-10-17 161459](https://github.com/user-attachments/assets/9ec251a1-1fad-400f-a63e-d9ae815ef942)
+![Screenshot 2024-10-17 161420](https://github.com/user-attachments/assets/84ed1fda-b9f4-4916-ae68-2dedd0d5de8b)
+![Screenshot 2024-10-17 161435](https://github.com/user-attachments/assets/77f61261-13c4-4f78-af40-4fb3251c0efb)
+![Screenshot 2024-10-17 161448](https://github.com/user-attachments/assets/e5c62a9f-b5fd-4746-81ab-6c6875e78f7c)
+![Screenshot 2024-10-17 161459](https://github.com/user-attachments/assets/9511a0d4-bb28-4a1b-9ce4-302c86415180)
+
+
 
